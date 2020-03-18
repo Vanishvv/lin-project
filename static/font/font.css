@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'HeitiStd';
+  src:url('../font/AdobeHeitiStd-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'baidu';
+  src:url('../font/百度综艺简体.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'YTJ';
+  src:url('../font/经典圆体简.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
