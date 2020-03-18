@@ -3,7 +3,7 @@ module.exports={
     'logoUrl':'../../static/images/LIN.png',
     'spinUrl':'../../static/images/3dSpin.png',
     'houseUrl':'../../static/images/3dhouse.png',
-    'modelUrl':'../../static/model/111.obj',
+    'modelUrl':'../../static/model/sofa.obj',
     'houseTip':'单击以旋转并拖动',
     'width':500,
     'height':500,
