@@ -1,6 +1,6 @@
 # lin-project
 
-> A Vue.js project
+> 互联网+竞赛的产品初稿，内含3D展示
 
 ## Build Setup
 
